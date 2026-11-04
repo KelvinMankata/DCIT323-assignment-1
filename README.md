@@ -1,1 +1,2 @@
 # DCIT323-assignment-1
+This is an assignment which shows the steps involved in creating a repository on Github, cloning it on your local machine, editing it, and using git commands like add, commit and push.
